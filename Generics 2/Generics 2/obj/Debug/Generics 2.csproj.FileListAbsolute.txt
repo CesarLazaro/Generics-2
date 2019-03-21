@@ -1,0 +1,7 @@
+C:\Users\lazaroca\source\repos\Generics 2\Generics 2\bin\Debug\Generics 2.exe.config
+C:\Users\lazaroca\source\repos\Generics 2\Generics 2\bin\Debug\Generics 2.exe
+C:\Users\lazaroca\source\repos\Generics 2\Generics 2\bin\Debug\Generics 2.pdb
+C:\Users\lazaroca\source\repos\Generics 2\Generics 2\obj\Debug\Generics 2.csprojAssemblyReference.cache
+C:\Users\lazaroca\source\repos\Generics 2\Generics 2\obj\Debug\Generics 2.csproj.CoreCompileInputs.cache
+C:\Users\lazaroca\source\repos\Generics 2\Generics 2\obj\Debug\Generics 2.exe
+C:\Users\lazaroca\source\repos\Generics 2\Generics 2\obj\Debug\Generics 2.pdb
